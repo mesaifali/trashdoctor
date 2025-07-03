@@ -1,0 +1,9 @@
+Package: trashdoctor
+Version: 0.1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: libc6 (>= 2.27)
+Maintainer: hehe <hehewhy.321@gmail.com>
+Description: Smart disk hygiene and cleanup tool
+ A Rust-based GUI application for managing and cleaning disk files.

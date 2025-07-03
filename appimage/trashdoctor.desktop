@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=TrashDoctor
+Exec=trashdoctor
+Icon=trashdoctor
+Type=Application
+Categories=Utility;
+Comment=Smart disk hygiene and cleanup tool
