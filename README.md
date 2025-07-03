@@ -21,10 +21,10 @@
 
 ### 📦 GitHub Release (Any Linux)
 
-Download latest binary or tarball from the [Releases](https://github.com/hehrewjw/trashdoctor/releases) page.
+Download latest binary or tarball from the [Releases]([https://github.com/hehrewjw/trashdoctor/releases](https://github.com/mesaifali/trashdoctor/releases/tag/v0.1.0)) page.
 
 ```bash
-wget https://github.com/hehrewjw/trashdoctor/releases/download/v0.1.0/trashdoctor.tar.gz
+wget https://github.com/mesaifali/trashdoctor/releases/download/v0.1.0/trashdoctor-v0.1.0-linux-x86_64.tar.gz
 tar -xzf trashdoctor.tar.gz
 chmod +x trashdoctor
 ./trashdoctor
@@ -38,7 +38,7 @@ yay -S trashdoctor
 Coming soon...
 💻 Build from Source
 
-git clone https://github.com/hehrewjw/trashdoctor.git
+git clone https://github.com/mesaifali/trashdoctor.git
 cd trashdoctor
 cargo build --release
 ./target/release/trashdoctor
@@ -59,7 +59,7 @@ This project is licensed under the MIT License.
 Feel free to fork, contribute, or customize.
 👨‍💻 Maintainer
 
-Hehe – hehewhy.321@gmail.com
+mesaifali- hehewhy.321@gmail.com
 
 Pull requests and ideas welcome 🙏
 
