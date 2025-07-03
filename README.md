@@ -30,12 +30,12 @@ chmod +x trashdoctor
 ./trashdoctor
 
 🐧 Arch Linux (AUR) – coming soon
-
 yay -S trashdoctor
 
-📷 Screenshots
 
-Coming soon...
+📷 Screenshots  – coming soon
+
+
 💻 Build from Source
 
 git clone https://github.com/mesaifali/trashdoctor.git
@@ -47,11 +47,6 @@ cargo build --release
 
 GitHub Binary Releases
 
-AppImage (Coming soon)
-
-.deb Packaging (Coming soon)
-
-    AUR Package (Planned)
 
 📜 License
 
